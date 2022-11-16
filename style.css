@@ -11,9 +11,13 @@ html {
     color: brown;
 }
 
-.aboutme {
+.about_me {
     font-size: 35px;
     color: rgb(151, 42, 165);
+}
+
+.image {
+    outline: 2px solid black;
 }
 
 /* Стили для кошечки */
