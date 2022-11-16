@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(243, 178, 245);
+}
+
+.header {
+    color: rgb(146, 9, 98);
+    font-size: 50px;
+}
+
+.header_2 {
+    color: brown;
+}
+
+.about_me {
+    font-size: 35px;
+    color: rgb(151, 42, 165);
+}
+
+.image {
+    outline: 2px solid black;
+}
+
+/* Стили для кошечки */
+.cat {
+    font-size: 30px;
+    color: brown;
+}
+
+.header_cat {
+    color: brown;
+    font-size: 40px;
+}
+
+.index {
+    font-size: 20px;
+}
